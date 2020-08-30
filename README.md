@@ -8,7 +8,7 @@ This aplication is a simple work day scheduler for a typical 7:00AM to 5:00PM. T
 
 [Click Here to Visit GitHub Repository](https://github.com/suschuk24/workday-scheduler)
 
-[Click Here to Visit the Deployed Site](https://suschuk24.github.io/javascript-quiz/index.html)
+[Click Here to Visit the Deployed Site](https://suschuk24.github.io/workday-scheduler/)
 
 ## Below is a screenshot of the page layout and features
 
