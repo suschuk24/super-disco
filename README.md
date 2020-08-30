@@ -14,7 +14,7 @@ This aplication is a simple work day scheduler for a typical 7:00AM to 5:00PM. T
 
 ### Scheduler Example
 
-![Main Page](https://github.com/suschuk24/javascript-quiz/blob/master/assets/images/page-screenshot.jpg)
+![Main Page](https://github.com/suschuk24/workday-scheduler/blob/master/assets/images/page-screenshot.jpg)
 
 ## Languages Used
 
